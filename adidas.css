@@ -1,0 +1,63 @@
+h1{
+    color:black;
+background-color: rgb(246, 76, 206);
+
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color:aliceblue;
+    padding: 20px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+.caja1{
+    color: black;
+    background-color:pink;
+    width:300px;
+    height: 300px;
+padding: 20px;
+
+}
+.caja2{
+    color: black;
+    background-color: rgb(158, 13, 114);
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+}
+.caja3{
+    color: black;
+    background-color: rgb(140, 44, 162);
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+}
+.caja4{
+color: black;
+background-color: rgb(160, 91, 225);
+width: 300px;
+height: 300px;
+padding: 20px;
+}
+.caja5{
+    color: black;
+    background-color: rgb(132, 71, 190);
+    width:300px;
+    height: 300px;
+    padding: 20px;
+
+}
+.caja6{
+    color: black;
+    background-color: rgb(176, 77, 176);
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+}
